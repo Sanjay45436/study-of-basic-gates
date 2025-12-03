@@ -83,14 +83,20 @@ endmodule
 
 
 **Logic symbol & Truthtable**
+
+
 <img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/c0a6faf8-53b0-41ba-a05e-c909e2d4acb8" />
 
 
 **RTL realization Output:** 
+
+
 <img width="558" height="340" alt="image" src="https://github.com/user-attachments/assets/7a3cefd2-b7d8-460e-92f2-66f155f110f2" />
 
 
 **RTL**
+
+
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b600d60b-cc9a-4df6-b896-17259708d66b" />
 
 
