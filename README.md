@@ -101,6 +101,7 @@ endmodule
 
 
 **Result:**
+
 Thus the basic logic gates are studied and the truth tables are verified.
 
 
