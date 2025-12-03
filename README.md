@@ -85,19 +85,22 @@ endmodule
 **Logic symbol & Truthtable**
 
 
-<img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/c0a6faf8-53b0-41ba-a05e-c909e2d4acb8" />
+
+<img width="436" height="824" alt="image" src="https://github.com/user-attachments/assets/9ca81640-2945-450c-ad98-2bb9fffa8ab2" />
 
 
 **RTL realization Output:** 
 
 
-<img width="558" height="340" alt="image" src="https://github.com/user-attachments/assets/7a3cefd2-b7d8-460e-92f2-66f155f110f2" />
+<img width="554" height="352" alt="image" src="https://github.com/user-attachments/assets/3d96ec1c-72ef-4a79-9bbf-aeeb8b598db4" />
+
 
 
 **RTL**
 
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b600d60b-cc9a-4df6-b896-17259708d66b" />
+<img width="834" height="484" alt="image" src="https://github.com/user-attachments/assets/f0b96dc5-e963-45c6-a70c-08557921b88c" />
+
 
 
 **Result:**
